@@ -1,0 +1,13 @@
+blocks:
+  - x: 100
+    y: 64
+    z: 200
+    command: say <player> stepped on block 1!
+  - x: 101
+    y: 65
+    z: 201
+    command: say You've stepped on block 2!
+  - x: 102
+    y: 66
+    z: 202
+    command: say You've stepped on block 3!

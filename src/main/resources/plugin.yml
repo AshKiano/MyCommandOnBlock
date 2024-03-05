@@ -1,0 +1,5 @@
+name: MyCommandOnBlock
+version: '${project.version}'
+main: com.ashkiano.mycommandonblock.MyCommandOnBlock
+api-version: '1.16'
+authors: [ AshKiano ]
